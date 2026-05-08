@@ -1,0 +1,5 @@
+Host Info: Linux DESKTOP-LC571DI 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 
+Build Started: 1778090474.98 
+Uncompressed Rootfs size: 28M	/home/sisung/poky-YoctoClass/build-3week/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 22936.14 seconds 
+CPU usage: 82.5% 
