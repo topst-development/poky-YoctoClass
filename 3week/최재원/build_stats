@@ -1,0 +1,5 @@
+Host Info: Linux 381e82e0e642 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 
+Build Started: 1778252380.40 
+Uncompressed Rootfs size: 29M	/home/yocto/poky/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 4796.32 seconds 
+CPU usage: 51.2% 
