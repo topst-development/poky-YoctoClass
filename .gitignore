@@ -11,6 +11,8 @@ meta-*/
 buildtools/
 !meta-skeleton
 !meta-selftest
+!meta-mylayer
+!meta-openembedded
 hob-image-*.bb
 *.swp
 *.orig
