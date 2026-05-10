@@ -1,0 +1,5 @@
+Host Info: Linux DESKTOP-GUFILQE 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 
+Build Started: 1778411941.42 
+Uncompressed Rootfs size: 28M	/home/kmu_juwon/poky-YoctoClass/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 1338.58 seconds 
+CPU usage: 22.5% 
