@@ -1,0 +1,5 @@
+Host Info: Linux debian 6.12.85+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.85-1 (2026-04-30) x86_64 
+Build Started: 1778403266.80 
+Uncompressed Rootfs size: 29M	/home/yoctouser/poky/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 14129.04 seconds 
+CPU usage: 23.5% 
