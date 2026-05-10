@@ -1,0 +1,5 @@
+Host Info: Linux Macbook 6.17.0-23-generic #23~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 14 15:59:10 UTC 2 aarch64 aarch64
+Build Started: 1778405407.20
+Uncompressed Rootfs size: 29M    /home/rubi/yocto-workspace/poky/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 3625.89 seconds
+CPU usage: 87.5%
