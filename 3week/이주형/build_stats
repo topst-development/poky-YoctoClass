@@ -1,0 +1,5 @@
+Host Info: Linux DESKTOP-ASV91P0 6.6.114.1-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Mon Dec  1 20:46:23 UTC 2025 x86_64 x86_64 
+Build Started: 1778502055.78 
+Uncompressed Rootfs size: 28M	/home/huey/poky-YoctoClass/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 2853.78 seconds 
+CPU usage: 83.4% 
