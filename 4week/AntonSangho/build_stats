@@ -1,0 +1,5 @@
+Host Info: Linux ubuntu22 6.8.0-111-generic #111~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 14 17:13:45 UTC  x86_64 x86_64 
+Build Started: 1778892529.88 
+Uncompressed Rootfs size: 139M	/mnt/shared/yocto/tmp/work/qemux86_64-poky-linux/mycompany-image/1.0/rootfs
+Elapsed time: 3233.46 seconds 
+CPU usage: 69.6% 
