@@ -1,0 +1,5 @@
+Host Info: Linux a04a1f1d754e 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 
+Build Started: 1778080959.36 
+Uncompressed Rootfs size: 28M	/workdir/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 17063.45 seconds 
+CPU usage: 18.7% 
