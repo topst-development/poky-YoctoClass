@@ -1,0 +1,5 @@
+Host Info: Linux db5284b90794 6.12.76-linuxkit #1 SMP PREEMPT_DYNAMIC Fri Apr 17 15:13:33 UTC 2026 x86_64 x86_64 
+Build Started: 1778116821.25 
+Uncompressed Rootfs size: 28M	/home/pokyuser/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 91.86 seconds 
+CPU usage: 40.6% 
