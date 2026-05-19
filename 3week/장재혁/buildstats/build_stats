@@ -1,0 +1,5 @@
+Host Info: Linux jh-Ubuntu 6.17.0-23-generic #23~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Apr 14 16:11:48 UTC 2 x86_64 x86_64 
+Build Started: 1778055155.69 
+Uncompressed Rootfs size: 28M	/home/jh/yocto-ossca/poky-YoctoClass/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 11680.73 seconds 
+CPU usage: 85.1% 
