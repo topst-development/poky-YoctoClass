@@ -1,0 +1,9 @@
+#######################################################
+# build_stats-vim
+#######################################################
+
+Host Info: Linux vultr 6.8.0-117-generic #117-Ubuntu SMP PREEMPT_DYNAMIC Tue May  5 19:26:24 UTC 2026 x86_64 x86_64 
+Build Started: 1779188845.48 
+Uncompressed Rootfs size: 129M  /home/kangmini/poky/build/tmp/work/qemux86_64-poky-linux/my-image/1.0/rootfs
+Elapsed time: 8260.39 second        # 2시간 17분 40초 소요 
+CPU usage: 80.8% 
