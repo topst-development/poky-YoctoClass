@@ -1,0 +1,7 @@
+kangmini@vultr:~/poky/build$ bitbake core-image-minimal
+ERROR: User namespaces are not usable by BitBake, possibly due to AppArmor.
+See https://discourse.ubuntu.com/t/ubuntu-24-04-lts-noble-numbat-release-notes/39890#unprivileged-user-namespace-restrictions for more information.
+
+Summary: There was 1 ERROR message, returning a non-zero exit code.
+
+## sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
